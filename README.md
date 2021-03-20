@@ -52,5 +52,5 @@
 
 ## Graffiti Wall
 
-<img align="left" alt="SpringBoot" width="108px" src="https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/wtf.webp" />
+<img align="left" alt="SpringBoot" width="512px" src="https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/wtf.webp" />
 
