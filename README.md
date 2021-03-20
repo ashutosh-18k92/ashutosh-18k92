@@ -16,6 +16,8 @@
 - 👯 Taking DevOps Certification 
 - 🧐 Also preping for Azure Certification
 
+## To-Do List
+
 - [ ] Update the website
 - [ ] Contact the media
 - [x] ~~writing readme.md~~
