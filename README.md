@@ -1,4 +1,4 @@
-### Hi there, I'm Ashutosh  👋
+### Hi there, I'm Ashutosh  👋  (https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/tuxel.gif)
 
 ## I'm an Engineer, Reader, Learner, and Teacher!
 
