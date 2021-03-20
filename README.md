@@ -2,14 +2,26 @@
 
 ## I'm an Engineer, Reader, Learner, and Teacher!
 
-- 🌱 I’m currently learning Functional Programming in Java
-- 👯 I’m looking to collaborate with other content creators
+- 📷 photographer by hobby
+- 👨‍🔬Engineer by choice
+- ❤️ Nature lover by heart 🌍
+- 📖 Reader by passion
+- 🍱🥞 love to cook
+- 👨‍💻 & Computer programmer 😉
+
+## What am I doing now?
+
+- 🌱 Currently learning Functional Programming in Java
+- 👯 Taking DevOps Certification 
+- 🧐 Also preping for Azure Certification
+
 
 
 ### Connect with me:
 
 [<img align="left" alt="EngineerByMind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="akumar1821 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="the_clairvoyant_artist | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -36,3 +48,4 @@
 
 [twitter]: https://twitter.com/EngineerByMind
 [linkedin]: https://linkedin.com/in/akumar1821
+[instagram]: https://instagram.com/the_clairvoyant_artist
