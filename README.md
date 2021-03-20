@@ -15,18 +15,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C Language" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />]
+<img align="left" alt="C Language" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 
-[<img align="left" alt="C++ Language" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />]
+<img align="left" alt="C++ Language" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />]
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 
-[<img align="left" alt="Kubernetes" width="26px" src="https://img.icons8.com/color/50/000000/kubernetes.png" />]
+<img align="left" alt="Kubernetes" width="26px" src="https://img.icons8.com/color/50/000000/kubernetes.png" />
 
-[<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/50/000000/docker.png" />]
-[<img align="left" alt="SpringBoot" width="26px" src="https://img.icons8.com/color/50/000000/spring-logo.png" />]
+<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/50/000000/docker.png" />
+<img align="left" alt="SpringBoot" width="26px" src="https://img.icons8.com/color/50/000000/spring-logo.png" />
 
 
 <br />
