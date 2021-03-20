@@ -18,7 +18,7 @@
 
 - [ ] Update the website
 - [ ] Contact the media
-- [x] -- writing readme.md --
+- [x] ~~ writing readme.md ~~
 
 
 
