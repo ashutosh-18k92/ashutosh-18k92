@@ -15,6 +15,9 @@
 - 🌱 Currently learning Functional Programming in Java
 - 👯 Taking DevOps Certification 
 - 🧐 Also preping for Azure Certification
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 
 
