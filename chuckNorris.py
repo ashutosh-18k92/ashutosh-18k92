@@ -1,10 +1,10 @@
 import http.client
-
+X_RapidAPI_Key = os.getenv("X_RapidAPI_Key")
 conn = http.client.HTTPSConnection("matchilling-chuck-norris-jokes-v1.p.rapidapi.com")
 
 headers = {
     'accept': "application/json",
-    'x-rapidapi-key': "7df969622bmsh6a457d47f217115p1ec357jsnb206217e8717",
+    'x-rapidapi-key': X_RapidAPI_Key,
     'x-rapidapi-host': "matchilling-chuck-norris-jokes-v1.p.rapidapi.com"
     }
 
