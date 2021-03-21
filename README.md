@@ -45,4 +45,4 @@
 ## Graffiti Wall
 
 <img align="left" alt="wtf" width="512px" src="https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/wtf.webp" />
-<img align="left" alt="minion" width="512px" src="https://giphy.com/embed/l44Qqz6gO6JiVV3pu" />
+<img align="left" alt="minion" width="512px" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" />
