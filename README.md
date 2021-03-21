@@ -1,14 +1,10 @@
 ### Hi there, I'm Ashutosh  👋  
-![Tuxel, my boy welcomes you](https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/tuxel.gif)
 
-## I'm an Engineer, Reader, Learner, and Teacher!
 
-- 📷 photographer by hobby
-- 👨‍🔬Engineer by choice
-- ❤️ Nature lover by heart 🌍
-- 📖 Reader by passion
-- 🍱🥞 love to cook
-- 👨‍💻 & Computer programmer 😉
+| ## I'm an Engineer, Reader, Learner, and Teacher! | Tuxel, My Boy |
+|---------------------------------------------------|------|
+| 📷 photographer by hobby    👨‍🔬Engineer by choice  ❤️ Nature lover by heart 🌍   📖 Reader by passion     🍱🥞 love to cook  👨‍💻 & Computer programmer 😉 |![Tuxel](https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/tuxel.gif)|
+
 
 ## What am I doing now?
 
@@ -49,7 +45,7 @@
 
 <img align="left" alt="SpringBoot" width="26px" src="https://img.icons8.com/color/50/000000/spring-logo.png" />
 
-<img align="left" alt="Linux" width="56px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img align="left" alt="Linux" width="64px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 <br />
 <br />
