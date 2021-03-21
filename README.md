@@ -44,9 +44,9 @@
 
 ## Graffiti Wall
 
-<img align="left" alt="wtf" width="512px" src="https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/wtf.webp" />
-<img align="right" alt="mac_hello" width="380px" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" />
-<img align="left" alt="minion_typing" width="300px" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" />
-<img align="right" alt="code_this" width="300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
+<img align="left" alt="wtf" width="400px" src="https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/wtf.webp" />
+<img align="right" alt="mac_hello" width="300px" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" />
+<img align="left" alt="minion_typing" width="500px" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" />
+<img align="right" alt="code_this" width="250px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 
 
