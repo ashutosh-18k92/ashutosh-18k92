@@ -1,7 +1,7 @@
-### Hi there, I'm Ashutosh  👋  
+### Hi there, I'm Ashutosh  👋  an Engineer, Reader, Learner, and Teacher!
 
 
-| ## I'm an Engineer, Reader, Learner, and Teacher! | Tuxel, My Boy |
+| About me | Tuxel, My Boy |
 |---------------------------------------------------|------|
 | 📷 photographer by hobby    👨‍🔬Engineer by choice  ❤️ Nature lover by heart 🌍   📖 Reader by passion     🍱🥞 love to cook  👨‍💻 & Computer programmer 😉 |![Tuxel](https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/tuxel.gif)|
 
