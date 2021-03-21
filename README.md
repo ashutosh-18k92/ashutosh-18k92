@@ -1,26 +1,12 @@
 ### Hi there, I'm Ashutosh  👋  an Engineer, Reader, Learner, and Teacher!
 
 
-| About me | Tuxel, My Boy |
-|---------------------------------------------------|------|
-| 📷 photographer by hobby    👨‍🔬Engineer by choice  ❤️ Nature lover by heart 🌍   📖 Reader by passion     🍱🥞 love to cook  👨‍💻 & Computer programmer 😉 |![Tuxel](https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/tuxel.gif)|
+| About me | Tuxel, My Boy | What am I doing now?|
+|---------------------------------------------------|------|------------|
+| 📷 photographer by hobby <br> 👨‍🔬Engineer by choice<br> ❤️ Nature lover by heart 🌍 <br>  📖 Reader by passion <br> 🍱🥞 love to cook <br> 👨‍💻 & Computer programmer 😉 |![Tuxel](https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/tuxel.gif)| 🌱 Currently learning Functional Programming in Java <br> 👯 Taking DevOps Certification  <br> 🧐 Also preping for Azure Certification |
 
 
-## What am I doing now?
-
-- 🌱 Currently learning Functional Programming in Java
-- 👯 Taking DevOps Certification 
-- 🧐 Also preping for Azure Certification
-
-## To-Do List
-
-- [ ] Update the website
-- [ ] Contact the media
-- [x] ~~writing readme.md~~
-
-
-
-### Connect
+### Feel free to Connect
 
 [<img align="left" alt="EngineerByMind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="akumar1821 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -59,3 +45,4 @@
 ## Graffiti Wall
 
 <img align="left" alt="SpringBoot" width="512px" src="https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/wtf.webp" />
+ 
