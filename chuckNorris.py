@@ -4,7 +4,7 @@ from flask import Flask
 app=Flask(__name__)
 
 @app.route('/')
-def index:
+def index():
     X_RapidAPI_Key = os.getenv("X_RapidAPI_Key")
     url = "https://matchilling-chuck-norris-jokes-v1.p.rapidapi.com/jokes/random"
 
