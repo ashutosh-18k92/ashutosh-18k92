@@ -1,6 +1,6 @@
-import http.client
+import requests
 X_RapidAPI_Key = os.getenv("X_RapidAPI_Key")
-conn = http.client.HTTPSConnection("matchilling-chuck-norris-jokes-v1.p.rapidapi.com")
+url = "https://matchilling-chuck-norris-jokes-v1.p.rapidapi.com/jokes/random"
 
 headers = {
     'accept': "application/json",
@@ -8,9 +8,6 @@ headers = {
     'x-rapidapi-host': "matchilling-chuck-norris-jokes-v1.p.rapidapi.com"
     }
 
-conn.request("GET", "/jokes/random", headers=headers)
+    response = requests.request("GET", url, headers=headers)
 
-res = conn.getresponse()
-data = res.read()
-
-print(data.decode("utf-8"))
+print(response.text)
