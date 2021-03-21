@@ -1,3 +1,4 @@
+import os
 import requests
 X_RapidAPI_Key = os.getenv("X_RapidAPI_Key")
 url = "https://matchilling-chuck-norris-jokes-v1.p.rapidapi.com/jokes/random"
