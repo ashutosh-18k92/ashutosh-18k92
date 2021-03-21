@@ -15,7 +15,7 @@
 <br />
 
 
-### Stuff I know 
+### Stuff I work with 
 
 <img align="left" alt="C Language" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 
