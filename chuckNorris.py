@@ -8,6 +8,6 @@ headers = {
     'x-rapidapi-host': "matchilling-chuck-norris-jokes-v1.p.rapidapi.com"
     }
 
-    response = requests.request("GET", url, headers=headers)
+response = requests.request("GET", url, headers=headers)
 
 print(response.text)
