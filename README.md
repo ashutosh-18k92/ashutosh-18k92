@@ -3,7 +3,7 @@
 
 | About me | Tuxel, My Boy | And I am working on |
 |---------------------------------------------------|------|------------|
-| 📷 photographer by hobby <br> 👨‍🔬Engineer by choice<br> ❤️ Nature lover by heart 🌍 <br>  📖 Reader by passion <br> 🍱🥞 love to cook <br> 👨‍💻 & Computer programmer 😉 |![Tuxel](https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/tuxel.gif)| 🌱 Currently learning Functional Programming in Java <br> 👯 Taking DevOps Certification  <br> 🧐 Also preping for Azure Certification |
+| 📷 photographer by hobby <br> 👨‍🔬Engineer by choice<br> ❤️ Nature lover by heart 🌍 <br>  📖 Reader by passion <br> 🍱🥞 love to cook <br> 👨‍💻 & Computer programmer 😉 |![Tuxel](https://raw.githubusercontent.com/ashutosh-18k92/ashutosh-18k92/master/tuxel.gif)| 🌱 Currently developing in React JS <br> 👯 Taking DevOps Certification  <br> 🧐 AWS Cloud Practioner|
 
 
 ### Feel free to Connect
