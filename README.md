@@ -34,6 +34,9 @@
 <img align="left" alt="Linux" width="64px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 <br />
+React JS
+Node JS
+MongoDB
 <br />
 
 ---
